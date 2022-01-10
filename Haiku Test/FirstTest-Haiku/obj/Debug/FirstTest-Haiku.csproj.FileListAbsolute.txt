@@ -1,0 +1,5 @@
+C:\Users\Tacet\Downloads\C-Sharp Role Haiku Test\FirstTest-Haiku\bin\Debug\FirstTest-Haiku.dll
+C:\Users\Tacet\Downloads\C-Sharp Role Haiku Test\FirstTest-Haiku\bin\Debug\FirstTest-Haiku.pdb
+C:\Users\Tacet\Downloads\C-Sharp Role Haiku Test\FirstTest-Haiku\obj\Debug\FirstTest-Haiku.csproj.CoreCompileInputs.cache
+C:\Users\Tacet\Downloads\C-Sharp Role Haiku Test\FirstTest-Haiku\obj\Debug\FirstTest-Haiku.dll
+C:\Users\Tacet\Downloads\C-Sharp Role Haiku Test\FirstTest-Haiku\obj\Debug\FirstTest-Haiku.pdb
